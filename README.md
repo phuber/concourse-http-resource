@@ -1,4 +1,4 @@
-# HTTP Resource
+# HTTP Resource 
 
 A generic resource for hitting an HTTP URL based on a small alpine base image.  Useful for generic HTTP REST APIs (e.g. notifications, comments, etc..).  Because this is a resource, it has access to the [build metadata](https://concourse-ci.org/implementing-resources.html#section_resource-metadata).
 
